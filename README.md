@@ -19,23 +19,23 @@ This repository contains my solutions to problems from [deep-ml.com](https://www
 |---|---------|------------|--------|----------|-----------|
 | 1 | GPT-2 Text Generation | Hard | GPT-2, Transformers, NLP, Deep Learning | [Solution](./transformers/gpt2-text-generation/) | [Blog Post](https://andreaneenu.github.io/blog/2026/deepml-gpt2-text-generation/) |
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Primary Language**: Python
 - **Libraries**: NumPy, SciPy, Pandas (when applicable)
 - **Tools**: Jupyter Notebooks, Git
 
-## 📚 Learning Resources
+## Learning Resources
 
 - [deep-ml.ai](https://deep-ml.ai) - Problem source
 - [My Blog](https://andreaneenu.github.io/blog/) - Detailed writeups
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
 - [Deep Learning Book](https://www.deeplearningbook.org/)
 
-## 📖 Blog Posts
+## Blog Posts
 
 All solutions are accompanied by detailed blog posts on my [personal website](https://andreaneenu.github.io/blog/).
-## 📫 Connect
+## Connect
 
 - **Website**: [andreaneenu.github.io](https://andreaneenu.github.io)
 - **GitHub**: [@andreaneenu](https://github.com/andreaneenu)
@@ -43,4 +43,5 @@ All solutions are accompanied by detailed blog posts on my [personal website](ht
 ---
 
 *Last updated: February 8, 2026*
+
 
